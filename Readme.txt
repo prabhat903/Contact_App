@@ -25,6 +25,11 @@ open the terminal/CMD -
 Step 1. move to server folder (cd ./server) Please install the node module in 'server' directory
 Step 2. run npm install
 Step 3. npm start
+`you will get server is running at port 9000
+db Connected`
+once you got this on console open your browser and hit 
+'http:/localhost:9000/'
+
 
 I have added the build out put of UI
 thus not needed to create it However if needed to build please follow the following.
